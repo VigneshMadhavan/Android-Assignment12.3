@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A12.2</string>
+    <string name="label">Enter the message needs to broadcast</string>
+    <string name="broadcast">Send Notification</string>
+    <string name="cancel">Cancel Notification</string>
+    <string name="defaultMsg">Hi! this the test message</string>
+</resources>
