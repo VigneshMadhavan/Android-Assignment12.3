@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 .setContentTitle("Event Details Short")
                 .setContentText("Short Description")
                 .setContentIntent(PendingIntent.getActivity(this, 0, resultIntent,PendingIntent.FLAG_ONE_SHOT))
-                .setSmallIcon(R.mipmap.ic_launcher_round).setLargeIcon(icon1);
+                .setSmallIcon(R.drawable.ic_comment_black_24dp).setLargeIcon(icon1);
 
         String[] events = new String[6];
 
